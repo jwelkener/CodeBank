@@ -1,0 +1,9 @@
+input {
+	width: 75%;
+}
+
+output {
+	width: 75%;
+	border: 1px, color: black;
+	padding: 10px;
+}
